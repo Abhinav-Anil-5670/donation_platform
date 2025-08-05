@@ -1,13 +1,6 @@
 # Donation Platform
 
-A modern, secure platform built to facilitate and track donations for the "Any Foundation," empowering interns and donors alike. This application provides a seamless donation experience while offering robust tools for internal tracking and fundraising.
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://donation-platform-pi.vercel.app)
-[![React](https://img.shields.io/badge/React-Vite-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-SDK%20v9-orange?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
-
-![Login Page Screenshot](https://i.imgur.com/KzXG53l.jpg)
+A modern, secure platform built to facilitate and track donations for Any Foundation, empowering interns and donors alike. This application provides a seamless donation experience while offering robust tools for internal tracking and fundraising.
 
 ## Table of Contents
 
@@ -23,7 +16,7 @@ A modern, secure platform built to facilitate and track donations for the "Any F
 
 ## Overview
 
-This project is a comprehensive donation platform built for the "She Can Foundation". It allows anonymous users to make donations and empowers foundation interns to track their fundraising efforts through a unique referral system. The application is built with a modern tech stack and follows best practices for security, data integrity, and user experience.
+This project is a comprehensive donation platform. It allows anonymous users to make donations and empowers foundation interns to track their fundraising efforts through a unique referral system. The application is built with a modern tech stack and follows best practices for security, data integrity, and user experience.
 
 The core data model consists of three main collections:
 - **Users:** Internal staff or interns with authentication and referral data.
@@ -101,6 +94,7 @@ VITE_PROJECT_ID="your-project-id"
 VITE_STORAGE_BUCKET="your-project-id.appspot.com"
 VITE_MESSAGING_SENDER_ID="your-sender-id"
 VITE_APP_ID="your-app-id"
+VITE_APP_MEASUREMENT_ID="your-measurement_id"
 ```
 
 ## Deployment
