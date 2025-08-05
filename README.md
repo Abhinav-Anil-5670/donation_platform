@@ -57,7 +57,7 @@ You need to have [Node.js](https://nodejs.org/en/) (version 16 or later) and npm
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/your-username/donation-platform.git](https://github.com/your-username/donation-platform.git)
+    git clone [https://github.com/Abhinav-Anil-5670/donation-platform.git](https://github.com/Abhinav-Anil-5670/donation-platform.git)
     ```
 2.  **Navigate to the project directory**
     ```sh
